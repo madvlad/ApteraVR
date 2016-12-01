@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 483b2d1bf80e641b6a31d5bfffbe5656
+timeCreated: 1477429085
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f0000009000000091000000920000009300000094000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6fe5f031483cd710ae15490485461007
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 6.5755653, y: 11.37397, z: 0.08565777}
+      lookAt: {x: -8.823848, y: -7.705511, z: 1.0917974}
+      up: {x: -0.7758506, y: 0.628877, z: 0.050691154}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back Supporter
+    100002: Back Supporter 1
+    100004: Computer Desk
+    100006: Computer Desk 1
+    100008: Computer Desk 10
+    100010: Computer Desk 11
+    100012: Computer Desk 12
+    100014: Computer Desk 13
+    100016: Computer Desk 14
+    100018: Computer Desk 15
+    100020: Computer Desk 16
+    100022: Computer Desk 17
+    100024: Computer Desk 18
+    100026: Computer Desk 19
+    100028: Computer Desk 2
+    100030: Computer Desk 20
+    100032: Computer Desk 21
+    100034: Computer Desk 22
+    100036: Computer Desk 23
+    100038: Computer Desk 24
+    100040: Computer Desk 25
+    100042: Computer Desk 3
+    100044: Computer Desk 4
+    100046: Computer Desk 5
+    100048: Computer Desk 6
+    100050: Computer Desk 7
+    100052: Computer Desk 8
+    100054: Computer Desk 9
+    100056: Couch
+    100058: DINING TABLE PAPER YOU PICK PANEL COLOR OF TOP BY JOHN A WEICK, RA
+    100060: Group 131
+    100062: Group 132
+    100064: Group 134
+    100066: Group 136
+    100068: Group 138
+    100070: Group 140
+    100072: Group 141
+    100074: Group 143
+    100076: Group 145
+    100078: Group 147
+    100080: Group 93
+    100082: Group 95
+    100084: Group 97
+    100086: i-mac 1500 dual desk
+    100088: i-mac 1500 dual desk 1
+    100090: i-mac 1500 dual desk 2
+    100092: i-mac 1500 dual desk 3
+    100094: i-mac 1500 dual white
+    100096: i-mac 1500 dual white 1
+    100098: i-mac 1500 dual white 2
+    100100: i-mac 1500 dual white 3
+    100102: i-mac 22in_sat-2999-3D
+    100104: i-mac 22in_sat-2999-3D 1
+    100106: i-mac 22in_sat-2999-3D 2
+    100108: i-mac 22in_sat-2999-3D 3
+    100110: i-mac 22in_sat-2999-3D 4
+    100112: i-mac 22in_sat-2999-3D 5
+    100114: i-mac 22in_sat-2999-3D 6
+    100116: i-mac 22in_sat-2999-3D 7
+    100118: ITALIA SHELTER ARM CHAIR
+    100120: jastuk
+    100122: jastuk 1
+    100124: jastuk 2
+    100126: jastuk_ld
+    100128: jastuk_ld 1
+    100130: jastuk_ld 2
+    100132: Leg
+    100134: Leg 1
+    100136: Leg 2
+    100138: Leg 3
+    100140: modern couch
+    100142: Modern Couch#1
+    100144: NORTH
+    100146: Obj_000001
+    100148: Obj_000002
+    100150: oculus-rift
+    100152: Seat
+    100154: Seat 1
+    100156: skphNnOU8
+    100158: //RootNode
+    400000: Back Supporter
+    400002: Back Supporter 1
+    400004: Computer Desk
+    400006: Computer Desk 1
+    400008: Computer Desk 10
+    400010: Computer Desk 11
+    400012: Computer Desk 12
+    400014: Computer Desk 13
+    400016: Computer Desk 14
+    400018: Computer Desk 15
+    400020: Computer Desk 16
+    400022: Computer Desk 17
+    400024: Computer Desk 18
+    400026: Computer Desk 19
+    400028: Computer Desk 2
+    400030: Computer Desk 20
+    400032: Computer Desk 21
+    400034: Computer Desk 22
+    400036: Computer Desk 23
+    400038: Computer Desk 24
+    400040: Computer Desk 25
+    400042: Computer Desk 3
+    400044: Computer Desk 4
+    400046: Computer Desk 5
+    400048: Computer Desk 6
+    400050: Computer Desk 7
+    400052: Computer Desk 8
+    400054: Computer Desk 9
+    400056: Couch
+    400058: DINING TABLE PAPER YOU PICK PANEL COLOR OF TOP BY JOHN A WEICK, RA
+    400060: Group 131
+    400062: Group 132
+    400064: Group 134
+    400066: Group 136
+    400068: Group 138
+    400070: Group 140
+    400072: Group 141
+    400074: Group 143
+    400076: Group 145
+    400078: Group 147
+    400080: Group 93
+    400082: Group 95
+    400084: Group 97
+    400086: i-mac 1500 dual desk
+    400088: i-mac 1500 dual desk 1
+    400090: i-mac 1500 dual desk 2
+    400092: i-mac 1500 dual desk 3
+    400094: i-mac 1500 dual white
+    400096: i-mac 1500 dual white 1
+    400098: i-mac 1500 dual white 2
+    400100: i-mac 1500 dual white 3
+    400102: i-mac 22in_sat-2999-3D
+    400104: i-mac 22in_sat-2999-3D 1
+    400106: i-mac 22in_sat-2999-3D 2
+    400108: i-mac 22in_sat-2999-3D 3
+    400110: i-mac 22in_sat-2999-3D 4
+    400112: i-mac 22in_sat-2999-3D 5
+    400114: i-mac 22in_sat-2999-3D 6
+    400116: i-mac 22in_sat-2999-3D 7
+    400118: ITALIA SHELTER ARM CHAIR
+    400120: jastuk
+    400122: jastuk 1
+    400124: jastuk 2
+    400126: jastuk_ld
+    400128: jastuk_ld 1
+    400130: jastuk_ld 2
+    400132: Leg
+    400134: Leg 1
+    400136: Leg 2
+    400138: Leg 3
+    400140: modern couch
+    400142: Modern Couch#1
+    400144: NORTH
+    400146: Obj_000001
+    400148: Obj_000002
+    400150: oculus-rift
+    400152: Seat
+    400154: Seat 1
+    400156: skphNnOU8
+    400158: //RootNode
+    2300000: Back Supporter
+    2300002: Back Supporter 1
+    2300004: Computer Desk
+    2300006: Computer Desk 1
+    2300008: Computer Desk 10
+    2300010: Computer Desk 11
+    2300012: Computer Desk 12
+    2300014: Computer Desk 13
+    2300016: Computer Desk 14
+    2300018: Computer Desk 15
+    2300020: Computer Desk 16
+    2300022: Computer Desk 17
+    2300024: Computer Desk 18
+    2300026: Computer Desk 19
+    2300028: Computer Desk 2
+    2300030: Computer Desk 20
+    2300032: Computer Desk 21
+    2300034: Computer Desk 22
+    2300036: Computer Desk 23
+    2300038: Computer Desk 24
+    2300040: Computer Desk 25
+    2300042: Computer Desk 3
+    2300044: Computer Desk 4
+    2300046: Computer Desk 5
+    2300048: Computer Desk 6
+    2300050: Computer Desk 7
+    2300052: Computer Desk 8
+    2300054: Computer Desk 9
+    2300056: Couch
+    2300058: DINING TABLE PAPER YOU PICK PANEL COLOR OF TOP BY JOHN A WEICK, RA
+    2300060: Group 132
+    2300062: Group 134
+    2300064: Group 136
+    2300066: Group 138
+    2300068: Group 141
+    2300070: Group 143
+    2300072: Group 145
+    2300074: Group 147
+    2300076: Group 93
+    2300078: Group 95
+    2300080: Group 97
+    2300082: i-mac 1500 dual desk
+    2300084: i-mac 1500 dual desk 1
+    2300086: i-mac 1500 dual desk 2
+    2300088: i-mac 1500 dual desk 3
+    2300090: i-mac 22in_sat-2999-3D
+    2300092: i-mac 22in_sat-2999-3D 1
+    2300094: i-mac 22in_sat-2999-3D 2
+    2300096: i-mac 22in_sat-2999-3D 3
+    2300098: i-mac 22in_sat-2999-3D 4
+    2300100: i-mac 22in_sat-2999-3D 5
+    2300102: i-mac 22in_sat-2999-3D 6
+    2300104: i-mac 22in_sat-2999-3D 7
+    2300106: jastuk
+    2300108: jastuk 1
+    2300110: jastuk 2
+    2300112: jastuk_ld
+    2300114: jastuk_ld 1
+    2300116: jastuk_ld 2
+    2300118: Leg
+    2300120: Leg 1
+    2300122: Leg 2
+    2300124: Leg 3
+    2300126: NORTH
+    2300128: Obj_000001
+    2300130: Obj_000002
+    2300132: Seat
+    2300134: Seat 1
+    2300136: //RootNode
+    3300000: Back Supporter
+    3300002: Back Supporter 1
+    3300004: Computer Desk
+    3300006: Computer Desk 1
+    3300008: Computer Desk 10
+    3300010: Computer Desk 11
+    3300012: Computer Desk 12
+    3300014: Computer Desk 13
+    3300016: Computer Desk 14
+    3300018: Computer Desk 15
+    3300020: Computer Desk 16
+    3300022: Computer Desk 17
+    3300024: Computer Desk 18
+    3300026: Computer Desk 19
+    3300028: Computer Desk 2
+    3300030: Computer Desk 20
+    3300032: Computer Desk 21
+    3300034: Computer Desk 22
+    3300036: Computer Desk 23
+    3300038: Computer Desk 24
+    3300040: Computer Desk 25
+    3300042: Computer Desk 3
+    3300044: Computer Desk 4
+    3300046: Computer Desk 5
+    3300048: Computer Desk 6
+    3300050: Computer Desk 7
+    3300052: Computer Desk 8
+    3300054: Computer Desk 9
+    3300056: Couch
+    3300058: DINING TABLE PAPER YOU PICK PANEL COLOR OF TOP BY JOHN A WEICK, RA
+    3300060: Group 132
+    3300062: Group 134
+    3300064: Group 136
+    3300066: Group 138
+    3300068: Group 141
+    3300070: Group 143
+    3300072: Group 145
+    3300074: Group 147
+    3300076: Group 93
+    3300078: Group 95
+    3300080: Group 97
+    3300082: i-mac 1500 dual desk
+    3300084: i-mac 1500 dual desk 1
+    3300086: i-mac 1500 dual desk 2
+    3300088: i-mac 1500 dual desk 3
+    3300090: i-mac 22in_sat-2999-3D
+    3300092: i-mac 22in_sat-2999-3D 1
+    3300094: i-mac 22in_sat-2999-3D 2
+    3300096: i-mac 22in_sat-2999-3D 3
+    3300098: i-mac 22in_sat-2999-3D 4
+    3300100: i-mac 22in_sat-2999-3D 5
+    3300102: i-mac 22in_sat-2999-3D 6
+    3300104: i-mac 22in_sat-2999-3D 7
+    3300106: jastuk
+    3300108: jastuk 1
+    3300110: jastuk 2
+    3300112: jastuk_ld
+    3300114: jastuk_ld 1
+    3300116: jastuk_ld 2
+    3300118: Leg
+    3300120: Leg 1
+    3300122: Leg 2
+    3300124: Leg 3
+    3300126: NORTH
+    3300128: Obj_000001
+    3300130: Obj_000002
+    3300132: Seat
+    3300134: Seat 1
+    3300136: //RootNode
+    4300000: Mesh UpstairsUnity
+    4300002: Mesh NORTH
+    4300004: Mesh Computer Desk
+    4300006: Mesh i-mac 1500 dual desk
+    4300008: Mesh i-mac 22in_sat-2999-3D
+    4300010: Mesh Obj_000001
+    4300012: Mesh Obj_000002
+    4300014: Mesh DINING TABLE PAPER YOU PICK PANEL COLOR OF TOP BY JOHN A WEICK,
+      RA
+    4300016: Mesh Group 93
+    4300018: Mesh Group 95
+    4300020: Mesh jastuk
+    4300022: Mesh jastuk_ld
+    4300024: Mesh Seat
+    4300026: Mesh Couch
+    4300028: Mesh Leg
+    4300030: Mesh Back Supporter
+    4300032: Mesh Group 132
+    4300034: Mesh Group 134
+    4300036: Mesh Group 136
+    4300038: Mesh Group 138
+    4300040: Mesh Group 141
+    4300042: Mesh Group 143
+    4300044: Mesh Group 145
+    4300046: Mesh Group 147
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
